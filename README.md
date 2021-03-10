@@ -4,7 +4,7 @@ Para este ejercicio vamos a hacer una pequeña web estática con React.
 
 El diseño sugerido es [este](https://app.zeplin.io/project/5c3f3f3e182f8e339ca49b34/screen/5e5fddce588192130135038f), pero sentite libre de modificarlo como más te guste o hacer un estilado mínimo: la idea es practicar React y no maquetado. 
 
-**Si no tenés acceso a esa web, por favor enviame tu mail por discord. Si ya lo hiciste, debes aceptar la invitación de Zeplin que llegó a tu correo. **
+**Si no tenés acceso a esa web, por favor enviame tu mail por discord. Si ya lo hiciste, debes aceptar la invitación de Zeplin que llegó a tu correo.**
 
 Dado el siguiente array de objetos, 
 
