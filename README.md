@@ -1,4 +1,4 @@
-# Ejercicio integrador (clases 89 y 90)
+# Ejercicio integrador (clases 90 y 91)
 
 Para este ejercicio vamos a hacer una pequeña web estática con React. 
 
