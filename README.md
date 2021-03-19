@@ -95,7 +95,9 @@ const products = [
 Cada tarjeta debe mostrar su `rating` correspondiente. 
 1. Para comenzar, que cada tarjeta muestre el numero correspondiente a la propiedad `rating`. 
 2. Una vez logrado eso, agregá los iconos de Font Awesome a tu proyecto de React. Para usar los iconos de Font Awesome vas a tener que instalar 3 dependencias en tu proyecto:
+
     - `@fortawesome/free-regular-svg-icons`
+    - `@fortawesome/fontawesome-svg-core`
     - `@fortawesome/free-solid-svg-icons`
     - `@fortawesome/react-fontawesome`
 Proba con una sola estrella para ver si se ve bien, y recorda que siempre tenes a disposicion la documentacion oficial: https://fontawesome.com/how-to-use/on-the-web/using-with/react
